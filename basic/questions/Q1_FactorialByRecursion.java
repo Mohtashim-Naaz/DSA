@@ -1,5 +1,5 @@
 package basic.questions;
-
+// naaz dom hai
 public class Q1_FactorialByRecursion {
 
     static int fact = 1;
