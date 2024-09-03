@@ -4,4 +4,4 @@
 # Ignore the .idea folder
 .idea/
 
-.out/
+out/
